@@ -14,6 +14,6 @@
     },
 	"autoload": {
         "psr-4": {"App\\Kernel\\": "src/Kernel/"}
-    }
+    },
     "minimum-stability": "stable"
 }
